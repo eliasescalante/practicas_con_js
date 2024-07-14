@@ -1,2 +1,7 @@
-# practicas_js_backend
-Algunos ejercicios para practicar js
+# Ejercicios con JavaScript
+
+----
+
+## Algunos ejercicios para practicar js orientado al Backend
+
+----
